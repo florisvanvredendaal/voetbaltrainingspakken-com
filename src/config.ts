@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: 'Voetbaltrainingspakken', url: 'https://www.voetbaltrainingspakken.com', description: 'Voetbaltrainingspakken vergelijken', language: 'nl', logo: '',
+  name: 'Voetbaltrainingspakken', url: 'https://www.voetbaltrainingspakken.com', description: 'Voetbaltrainingspakken vergelijken', language: 'nl', logo: 'https://www.voetbaltrainingspakken.com/wp-content/uploads/2015/05/cropped-voetbaltrainingspakken.jpg',
   colors: { primary: '#2563eb', secondary: '#1e40af', accent: '#f59e0b', background: '#ffffff', text: '#1f2937' },
   fonts: { heading: 'Inter, system-ui, sans-serif', body: 'Inter, system-ui, sans-serif' },
   defaultOgImage: '/images/og-default.jpg', author: 'Floris',
